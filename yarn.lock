@@ -15,6 +15,11 @@
     "@jridgewell/gen-mapping" "^0.3.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
+"@appdynamics/react-native-agent@^24.1.1":
+  version "24.1.1"
+  resolved "https://registry.yarnpkg.com/@appdynamics/react-native-agent/-/react-native-agent-24.1.1.tgz#0972f884ff2a8a8003a978dc1e9eaeb96d98d915"
+  integrity sha512-N22I/kEGF8hmCrtjYt744Ri61peVcdQhZX7vbE2YCbeh+gYDfrv4cgsvR+StSV7ZPT5EnLw0J+ap3mT/Ye6yOw==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.23.5":
   version "7.23.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.23.5.tgz#9009b69a8c602293476ad598ff53e4562e15c244"

@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@appdynamics/react-native-agent": "^24.1.1",
     "react": "18.2.0",
     "react-native": "0.73.3"
   },

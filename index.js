@@ -8,7 +8,7 @@ import {name as appName} from './app.json';
 import {Instrumentation, LoggingLevel} from '@appdynamics/react-native-agent';
 
 Instrumentation.start({
-  appKey: 'EC-AAC-AYA',
+  appKey: '',
   collectorURL: 'https://fra-col.eum-appdynamics.com',
   loggingLevel: LoggingLevel.VERBOSE,
 });
